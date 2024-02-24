@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align=center>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Hi, there! ✧</h3>
 
-<!--
-**ttnsy/ttnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/ビックリさせんニャよ！_gifmagazine.gif">
+</p>
 
-Here are some ideas to get you started:
+- 🥸 Mostly codes in `R` (`shiny` ✨).
+- 👻 Used to work with data a lot.
+- 🌱 Currently learning `JS` based modern web dev (`Next.js`).
+- 💬 Ping me about **data**, **development**, **R/shiny**  and 🐱**gatos**🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<p align="center"><samp>
+    Check out my repos <br>
+    ⬇️ ⬇️ ⬇️  
+  </samp>
+</p>
+
